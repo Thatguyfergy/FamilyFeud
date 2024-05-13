@@ -20,7 +20,7 @@ Listening on 8080
 ## Play Family Feud
 
 * Open two browser windows at http://localhost:8080/
-* Click **Be the host** to assign that window to become the game **host controller**. All other open instances will become the **audiance window** window. 
+* Click **Be the host** to assign that window to become the game **host controller**. All other open instances will become the **audience window** window. 
 * As the **host** you can:
    * click to reveal answers
    * assign points
