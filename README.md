@@ -1,6 +1,6 @@
 # Family Feud using Node.js Express & Socket.io
 
-This is an experiment to create a server with a live socket in order to set up a **game host instance** and an **audiance display instance** for a web app.  Once the host is selected, they will have control over the audiance board and points.  
+This is an experiment to create a server with a live socket in order to set up a **game host instance** and an **audience display instance** for a web app.  Once the host is selected, they will have control over the audiance board and points.  
 
 ## Install and start
 
