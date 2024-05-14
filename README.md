@@ -5,6 +5,7 @@ This is an experiment to create a server with a live socket in order to set up a
 ## Install and start
 
 ```bash
+git clone https://github.com/Thatguyfergy/RPG-quiz.git
 cd FamilyFeud
 npm install
 npm start
