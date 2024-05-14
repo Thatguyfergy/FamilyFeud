@@ -24,7 +24,7 @@ Listening on 8080
    * click to reveal answers
    * assign points
    * go to new questions
-* Webapp is currently hosted at https://familyfeud-kt3l.onrender.com/ 
+* Alternatively, the webapp is currently hosted at https://familyfeud-kt3l.onrender.com/ 
 
 
 
