@@ -5,7 +5,7 @@ This is an experiment to create a server with a live socket in order to set up a
 ## Install and start
 
 ```bash
-cd Family-Feud
+cd FamilyFeud
 npm install
 npm start
 ```
