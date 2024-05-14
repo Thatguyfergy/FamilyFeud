@@ -24,13 +24,7 @@ Listening on 8080
    * click to reveal answers
    * assign points
    * go to new questions
+* Webapp is currently hosted at https://familyfeud-kt3l.onrender.com/ 
 
-### Default instance:
-![Default instance](public/img/Default.jpg)
 
-### Host instance:
-![Host instance](public/img/Host.jpg)
-
-### Audience instance:
-![Host instance](public/img/Audience.jpg)
 
