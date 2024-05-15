@@ -26,7 +26,7 @@ Listening on 8080
    * assign points
    * go to new questions
 * Alternatively, the webapp is currently hosted at https://familyfeud-kt3l.onrender.com/
-  As it is a free web hosting service, loading into the webapp may be a bit slow 
+* As it is a free web hosting service, loading into the webapp may be a bit slow 
 
 
 
